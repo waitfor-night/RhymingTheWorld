@@ -1,1 +1,3 @@
 # Introduction
+The impressive capabilities of o1-like models have demonstrated that using reinforcement learning for fine-tuning language models is a super promising approach with huge potential. However, probably because designing reward functions is tricky, most current efforts are focused on testing this method in areas like math or coding tasks. This project sets out to shake things up by exploring how reinforcement learning can fine-tune LLMs to master semantically controlled, continuous rhyming generation.
+<hr>
